@@ -1,4 +1,4 @@
-![logo](https://github.com/revanth8607/revanth8607/blob/main/Purple%20Colorful%20Cartoon%20Illustrative%20Anime%20Presentation.png)
+![logo](https://github.com/revanth8607/revanth8607/blob/main/Revanth%20SAI%20Gowrisetty.png)
 <h1 align="center">Hi 👋, I'm Revanth Sai</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
