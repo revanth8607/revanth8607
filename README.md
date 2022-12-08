@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Revanth Sai</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Decision making system<br><br>🌱 I’m currently learning Javascript and React<br><br>💬 Ask me about Java and SQL<br><br>📫 How to reach me revanthsai1411@gmail.com<br><br>⚡ Fun fact I like Java more than Python
 
 <h3 align="left">Connect with me:</h3>
